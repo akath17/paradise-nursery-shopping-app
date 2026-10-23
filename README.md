@@ -28,3 +28,11 @@ Paradise Nursery is a React and Redux shopping-cart application for an online pl
 ```bash
 npm install
 npm run dev
+The first added line is **three backtick characters** to close the existing code block.
+
+Save the file, then run:
+
+```powershell
+git add README.md
+git commit -m "Fix README formatting"
+git push origin main
